@@ -6,9 +6,9 @@ import {
 } from "@heroicons/react/24/solid";
 import { Home } from "@/pages/dashboard";
 import Roles from "./pages/dashboard/roles";
-import Users from "./pages/dashboard/Users";
+import Users from "./pages/dashboard/users";
 import { SignIn } from "@/pages/auth";
-import ViewRole from "./pages/dashboard/ViewRole";
+import ViewRole from "./pages/dashboard/viewRole";
 
 const icon = {
   className: "w-5 h-5 text-inherit",

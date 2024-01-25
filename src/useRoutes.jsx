@@ -5,7 +5,7 @@ import {
   ServerStackIcon,
 } from "@heroicons/react/24/solid";
 import { Home } from "@/pages/dashboard";
-import Roles from "./pages/dashboard/Roles";
+import Roles from "./pages/dashboard/roles";
 import Users from "./pages/dashboard/Users";
 import { SignIn } from "@/pages/auth";
 import ViewRole from "./pages/dashboard/ViewRole";
